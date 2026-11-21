@@ -22,9 +22,13 @@ Every file above is published on <a href="https://github.com/bitcoin-lightning-w
 
 ## Where the guides are
 
-**<a href="https://github.com/bitcoin-lightning-wallet/lightning-payments-guides">Lightning Pay payment guides</a>** - Sending, receiving, cashing out, channels and what a payment really costs. (9 guides)
-**<a href="https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides">Lightning Pay recovery and custody guides</a>** - Backups, recovery, custody, safety checks and what you actually hold. (13 guides)
-**<a href="https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics">Lightning wallet basics</a>** - The network, wallets, apps and installs, in plain terms. (18 guides)
+| Repository | What it covers | Guides |
+| --- | --- | --- |
+| <a href="https://github.com/bitcoin-lightning-wallet/lightning-payments-guides">Lightning Pay payment guides</a> | Sending, receiving, cashing out, channels and what a payment really costs. | 9 |
+| <a href="https://github.com/bitcoin-lightning-wallet/wallet-recovery-guides">Lightning Pay recovery and custody guides</a> | Backups, recovery, custody, safety checks and what you actually hold. | 13 |
+| <a href="https://github.com/bitcoin-lightning-wallet/lightning-wallet-basics">Lightning wallet basics</a> | The network, wallets, apps and installs, in plain terms. | 18 |
+
+Each repository covers one topic and carries its own banner and assets, so a change to one topic never touches the others. The guides themselves are short on purpose: one question, one answer, and a link to the guide that continues it. Where a topic needed more depth, it was split into a second guide rather than made into a longer page.
 
 The eight pages that used to live here have been split into the guides above. Each old page remains as a short pointer, so no link to this repository breaks.
 
